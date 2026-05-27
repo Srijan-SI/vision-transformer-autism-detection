@@ -126,3 +126,9 @@ Srijan S I
 ## Training Logs
 
 ![Training Logs](images/training_logs.png)
+
+## Thesis
+
+The detailed project thesis, methodology, architecture design, and experimental analysis are included in this repository.
+
+[View Thesis](Vision_Transformer_Autism_Detection_Thesis.pdf)
