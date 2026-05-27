@@ -104,3 +104,25 @@ The accompanying thesis is available in the thesis/ directory.
 ## Author
 
 Srijan S I
+
+## Architecture
+
+![Architecture](images/architecture.png)
+
+---
+
+## Attention Rollout Visualization
+
+![Attention Rollout](images/attention_rollout.png)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## Training Logs
+
+![Training Logs](images/training_logs.png)
